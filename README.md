@@ -10,6 +10,15 @@ Minihell implements several key features of a shell environment, including:
 - Signal handling (e.g., `Ctrl+C`, `Ctrl+Z`).
 - Tokenization of input for command and argument separation.
 - Error handling and output.
+
+### Prerequisites
+
+Make sure you have the following dependencies installed on your system:
+
+- **GCC** or any C compiler
+- **GNU Make**
+- **Readline library** (`libreadline-dev` on Debian/Ubuntu or equivalent on other systems)
+- **libftprintf** library (part of the project)
   
 ### Building the Project
 
