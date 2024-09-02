@@ -19,8 +19,9 @@ To compile the project, simply run:
 
 ```bash
 make
-
+```
 After building the project, you can run the minishell executable with:
 
 ```bash
 ./minishell
+```
